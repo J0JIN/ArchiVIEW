@@ -51,7 +51,7 @@
 
 ## 🔧 서비스 기능
 
-![](Readme/Archiview_PT.mp4)
+![영상](Readme/Archiview_PT.mp4)
 
 | 기능          | NON-LOGIN | LOGIN-USER | MEMBER | ADMIN |
 | ------------- | --------- | ---------- | ------ | ----- |
