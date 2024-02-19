@@ -51,7 +51,7 @@
 
 ## 🔧 서비스 기능
 
-![영상](Readme/Archiview_PT.mp4)
+[![Watch the video](https://img.youtube.com/vi/T3Yv2CsUp7I/maxresdefault.jpg)](https://youtu.be/T3Yv2CsUp7I)
 
 | 기능          | NON-LOGIN | LOGIN-USER | MEMBER | ADMIN |
 | ------------- | --------- | ---------- | ------ | ----- |
